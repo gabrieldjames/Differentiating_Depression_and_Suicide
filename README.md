@@ -1,7 +1,7 @@
 # Differentiating_Depression_and_Suicide
 A text analytics project centered on understanding the r/Depression and r/SuicideWatch subreddits
 
-Please see the PowerPoint deck for a summary of this project.
+Please see the PowerPoint deck or pdf for a summary of this project.
 
 #### Data Collection
 proj_scraper.py is the script I wrote to pull Reddit comments using PRAW.
