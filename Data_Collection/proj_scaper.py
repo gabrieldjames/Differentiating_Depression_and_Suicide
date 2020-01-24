@@ -8,7 +8,7 @@ import datetime
 
 def pull_Reddit_Posts(subreddit, num_posts):
 
-	reddit = praw.Reddit(client_id='KvRsJ7d8P0y7sQ', client_secret='lp3sUKus_afFOSKcYMtVWDOElso', user_agent='Text1_Scraper')
+	reddit = praw.Reddit(client_id='', client_secret='', user_agent='')
 
 	subreddit = reddit.subreddit(subreddit)
 
